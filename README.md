@@ -9,7 +9,7 @@
           WEBSOCKET / SSH / SSL / XRAY
 
 
-<pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/aiyavpn/sc/main/run && chmod +x run && ./run && screen -S run ./run</code></pre>
+<pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/Kiraavpn/kira/main/run.sh && chmod +x run.sh && ./run.sh && screen -S run.sh ./run.sh</code></pre>
 
 
 <p align="center">
